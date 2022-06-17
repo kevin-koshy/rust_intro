@@ -13,3 +13,10 @@
 **/.vscode
 # Files from macOS
 .DS_Store
+
+exercise/b_functions/.idea
+exercise/c_simple_types/.idea
+exercise/d_control_flow_strings/.idea
+exercise/e_ownership_references/.idea
+exercise/f_structs_traits/.idea
+
